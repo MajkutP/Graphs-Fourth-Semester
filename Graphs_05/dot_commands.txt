@@ -1,0 +1,1 @@
+dot -Tpng out1.dot > out1.png
